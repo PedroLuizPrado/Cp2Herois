@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Heroes</string>
+    <string name="liga_text">The Justice League, also known as the Justice League of America, is a fictional team of superheroes originating in comic books published by the American publisher DC Comics. The team is a group of superheroes, usually made up of seven characters, also known as the Magnificent Seven.</string>
+    <string name="marvel_text">Avengers or The Avengers are a group of comic book superheroes published in the United States by Marvel Comics. The group also appears in Marvel adaptations for cinema, cartoons and video games.</string>
+</resources>
